@@ -1,0 +1,6 @@
+streamlit
+textblob
+pandas
+altair
+vaderSentiment
+gunicorn

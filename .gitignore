@@ -1,0 +1,56 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables and settings
+*.env
+.env.*
+secrets.json
+
+# Streamlit cache and logs
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Python package builds
+build/
+dist/
+*.egg-info/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Node.js dependencies (if applicable)
+node_modules/
+
+# Pytest cache
+.pytest_cache/
+
+# Test coverage reports
+htmlcov/
+*.cover
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
